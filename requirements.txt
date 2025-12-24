@@ -1,0 +1,7 @@
+streamlit>=1.28.0
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+jieba>=0.42.1
+pyecharts>=2.0.4
+streamlit-echarts>=0.4.0
+lxml>=4.9.3  # 辅助BeautifulSoup解析HTML
